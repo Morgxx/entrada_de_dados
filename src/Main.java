@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		// Autor Kamila Silva
+		// Autor Kamila Silva.
 		
 		Locale.setDefault(Locale.US);
 		
